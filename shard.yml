@@ -6,4 +6,4 @@ authors:
 
 dependencies:
   pool:
-    github: ysbaddaden/pool
+    github: watzon/pool
